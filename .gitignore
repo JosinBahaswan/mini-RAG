@@ -1,0 +1,23 @@
+# Environment & secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+
+# Data ChromaDB (runtime data, bukan source code)
+chroma_db/
+examples/chroma_db/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
