@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "mini-rag"
+name = "mini-rag-openrouter"
 version = "0.1.0"
 description = "RAG pipeline sederhana pakai OpenRouter dan ChromaDB"
 readme = "README.md"
