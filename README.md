@@ -5,7 +5,7 @@ RAG (Retrieval-Augmented Generation) pipeline sederhana menggunakan [OpenRouter]
 ## Instalasi
 
 ```bash
-pip install mini-rag
+pip install mini-rag-openrouter
 ```
 
 Untuk contoh REST API (FastAPI), install dengan extra `api`:
